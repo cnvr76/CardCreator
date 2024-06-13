@@ -9,16 +9,6 @@ CardCreator is a powerful JavaFX and Java Swing application designed to create b
 - **Customization**: Add images and all necessary types of information (Company name, Title, Logo, etc.).
 - **Future updates**: Additional features may be added based on user feedback and available time.
 
-## Screenshots
-
-### Interface
-- **Starting Window**: 
-  ![Starting Window](path_to_starting_window_image)
-- **In Progress**: 
-  ![In Progress](path_to_in_progress_image)
-- **Final Result**: 
-  ![Final Result](path_to_final_result_image)
-
 ### Edit Possibilities
 - **Printing**: 
   ![Printing](path_to_printing_image)

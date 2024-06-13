@@ -11,9 +11,9 @@ CardCreator is a powerful JavaFX and Java Swing application designed to create b
 
 ### Edit Possibilities
 - **Printing**: 
-  ![Printing](path_to_printing_image)
+  ![Printing]
 - **Saving**: 
-  ![Saving](path_to_saving_image)
+  ![Saving]
 - **Project Saving**: Save your work in a format that can be loaded later (loading feature not yet implemented).
 
 ### Example Output
